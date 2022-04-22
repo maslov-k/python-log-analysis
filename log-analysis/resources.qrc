@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/down.png</file>
+    <file>icons/imageres_98.ico</file>
+    <file>icons/Launcher.ico</file>
+    <file>icons/Layers.ico</file>
+    <file>icons/Settings.ico</file>
+    <file>icons/up.png</file>
+  </qresource>
+</RCC>
